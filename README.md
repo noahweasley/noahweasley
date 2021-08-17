@@ -9,10 +9,12 @@
 
 [![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noahweasley&show_icons=true&theme=radical&count_private=true)](https://noahweasley.github.io)
 
-<p>
+
+## Languages
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweasley&layout=compact&theme=radical)](https://github.com/noahweasley)
 
-</p
+
 	
 ## Tools and API:
 
