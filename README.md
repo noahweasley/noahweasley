@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## Languages:
 
 <p>
-	<a href="https://https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/-java-white?logo=java&logoColor=#007396" /></a>
+	<a href="https://https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/-java-white?logo=java&logoColor=#007396"/></a>
 	
 </p>
 
@@ -29,7 +29,6 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://git-scm.com/"><img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ ></a>
 	<a href="https://www.sublimetext.com"><img width = "50px" alt = "Sublime" src = "https://cdn.discordapp.com/attachments/765212635632894004/800398326566092820/pngegg.png"/></a>
 	<a href="https://getbootstrap.com/"><img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/></a>
-	<a href="https://github.com/Rapptz/discord.py"><img width="50px" alt="Discord.py" src="https://cdn.discordapp.com/icons/336642139381301249/3aa641b21acded468308a37eef43d7b3.png"/></a>
 </p>
 
 ## My Works:
