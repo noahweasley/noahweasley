@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## Languages:
 
 <p>
-	[Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+	[Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 	
 </p>
 
