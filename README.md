@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 	
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweasley6&layout=compact&theme=radical)](https://github.com/noahweasley)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweasley&layout=compact&theme=radical)](https://github.com/noahweasley)
 
 ## Tools and API:
 
