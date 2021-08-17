@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## Languages:
 
 <p>
-	<a href="https://www.java.com/en"><img alt="Java" src = "(https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/></a>
+	<a href="https://www.java.com/en"><img alt="Java" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white"/></a>
 	
 </p>
 
@@ -29,12 +29,4 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://git-scm.com/"><img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ ></a>
 	<a href="https://getbootstrap.com/"><img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/></a>
 </p>
-
-## My Works:
-
-- [ChillBot Premium](https://chillbot.me) [![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/efxVhft75N) 
-- [Galactic Bot.](https://top.gg/bot/764164847238643774)
-- [Torrent2Mega.](https://github.com/rednek46/torrent2mega)
-- [BlockTheSpot.bat](https://github.com/mrpond/BlockTheSpot/) [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)  
-- [EssentialCV](https://pypi.org/project/EssentialCV/)
 	
