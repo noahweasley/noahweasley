@@ -16,9 +16,9 @@
 
 ## WakaTime
 
-[!Noahweasley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noahweasley)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
-	
 ## Tools and API:
 
 <p>
