@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Stats[:](https://youtu.be/dQw4w9WgXcQ)
 
-[![Noah's github stats](https://github-readme-stats.vercel.app/api?username=Nuzair46&show_icons=true&theme=radical&count_private=true)](https://noahweasley.github.io)
+[![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noahweasley&show_icons=true&theme=radical&count_private=true)](https://noahweasley.github.io)
 
 ## Languages:
 
