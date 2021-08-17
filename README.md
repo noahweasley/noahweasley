@@ -1,15 +1,19 @@
-## 👋 Hi, I’m @noahweasley
-## 👀 I’m interested in Desktop, Android and just about anything dealing with Tech...
-## 🌱 I’m currently learning Android using the Android SDK and Desktop app development using Electron js...
-## 💞️ I’m looking to collaborate on any kind of projects, because i'll love to learn from you...
-## 📫 How to reach me @facebook Ebenmelu Ifenna Emmanuel, @Instagram noahweasley1 ..
+### 👋 Hi, I’m @noahweasley
+
+- 👀 I’m interested in Desktop, Android and just about anything dealing with Tech...
+- 🌱 I’m currently learning Android using the Android SDK and Desktop app development using Electron js...
+- 💞️ I’m looking to collaborate on any kind of projects, because i'll love to learn from you...
+- 📫 How to reach me @facebook Ebenmelu Ifenna Emmanuel, @Instagram noahweasley1 ..
 
 ## Github Stats
 
 [![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noahweasley&show_icons=true&theme=radical&count_private=true)](https://noahweasley.github.io)
 
+<p>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweasley&layout=compact&theme=radical)](https://github.com/noahweasley)
 
+</p
+	
 ## Tools and API:
 
 <p>
