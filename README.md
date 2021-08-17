@@ -16,8 +16,8 @@
 
 ## WakaTime
 
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/<noahweasley>/<TimeLY>/blob/<master>/images/stat.svg" alt="TimeLY WakaTime Activity"/>
+<img src="https://github.com/noahweasley/noahweasley/blob/main/images/stat.svg" alt="Noahweasley's WakaTime Activity"/>
 
 ## Tools and API:
 
