@@ -9,14 +9,14 @@ noahweasley/noahweasley is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Stats[:](https://youtu.be/dQw4w9WgXcQ)
+## Github Stats
 
 [![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noahweasley&show_icons=true&theme=radical&count_private=true)](https://noahweasley.github.io)
 
 ## Languages:
 
 <p>
-	[Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+	<a href="https://www.java.com/en"><img alt="Java" src = "(https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/></a>
 	
 </p>
 
