@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## Languages:
 
 <p>
-	<a href="https://www.java.com/en"><img alt="Java" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white"/></a>
+	<a href="https://www.java.com/en"><img alt="Java" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java-white&logoColor=#007396"/></a>
 	
 </p>
 
