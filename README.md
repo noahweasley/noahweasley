@@ -14,15 +14,11 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweasley&layout=compact&theme=radical)](https://github.com/noahweasley)
 
-## WakaTime
-
-<img src="https://github.com/<noahweasley>/<TimeLY>/blob/<master>/images/stat.svg" alt="TimeLY WakaTime Activity"/>
-<img src="https://github.com/noahweasley/noahweasley/blob/main/images/stat.svg" alt="Noahweasley's WakaTime Activity"/>
-
 ## Tools and API:
 
 <p>
-	<a href="https://github.com/"><img width="50px" alt = "Github" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a>
+	<a href="https://github.com/"><img width="50px" alt = "Github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
+	<a href="https://code.visualstudio.com/"><img width="50px" alt = "VS Code" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a>
 	<a href="https://git-scm.com/"><img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ ></a>
 	<a href="https://getbootstrap.com/"><img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/></a>
 </p>
