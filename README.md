@@ -4,21 +4,11 @@
 - 💞️ I’m looking to collaborate on any kind of projects, because i'll love to learn from you...
 - 📫 How to reach me @facebook Ebenmelu Ifenna Emmanuel, @Instagram noahweasley1 ...
 
-<!---
-noahweasley/noahweasley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=noahweasley&color=blueviolet&label=PROFILE+VIEWS)
 
 ## Github Stats
 
 [![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noahweasley&show_icons=true&theme=radical&count_private=true)](https://noahweasley.github.io)
-
-## Languages:
-
-<p>
-	<a href="https://www.java.com/en"><img alt="Java" src = "https://img.shields.io/badge/java-%23ED8B00.svg?logo=javalogoColor=blue"/></a>
-	
-</p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweasley&layout=compact&theme=radical)](https://github.com/noahweasley)
 
