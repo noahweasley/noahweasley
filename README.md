@@ -14,6 +14,9 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweasley&layout=compact&theme=radical)](https://github.com/noahweasley)
 
+## WakaTime
+
+[!Noahweasley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noahweasley)](https://github.com/anuraghazra/github-readme-stats)
 
 	
 ## Tools and API:
