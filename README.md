@@ -18,7 +18,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahweasley&layout=compact&theme=radical)](https://github.com/noahweasley)
 
-## Frameworks, Tools and APIs:
+## Languages, Frameworks, Tools and APIs:
 
 <p>
 
