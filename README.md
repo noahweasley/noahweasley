@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @noahweasley
+## 👋 Hi, I’m @noahweasley
 
 - 😋  I'm a Part-Time Open-Source Developer, Tech Evangelist and Advisor...
 - 🔭 I am currently building [TimeLY](https://github.com/noahweasley/TimeLY), [Node User Settings](https://www.npmjs.com/package/node-user-settings) and [S.M.D Desktop](https://noahweasley.github.io/SMD-Desktop/)
@@ -9,7 +9,7 @@
 - 📫 How to reach-out to me quickly: [E-Mail](mailto:iebenmelu@gmail.com?subject=Reaching%20out), [LinkedIn](https://www.linkedin.com/in/ebenmelu-ifechukwu) ...
 - 📝 My Blog Posts: [Medium](https://medium.com/@iebenmelu) ...
 
-### Skills and Tools
+## Skills and Tools
 <p align="left">
 <a href="https://code.visualstudio.com/"><img width="40px" alt = "VS Code" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a> 
 <a href="https://git-scm.com/"><img alt="git" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/></a> 
@@ -30,11 +30,11 @@
 </p>
                     
 
-### Socials
+## Socials
  
  <p align="left"> <a href="https://www.github.com/noahweasley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ebenmelu-ifechukwu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@iebenmelu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13737843/noah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
