@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @noahweasley
 
-- 😋  I'm a Part-Time Open-Source Developer, Tech Evangelist and Advisor...
+- 😋 I'm a Part-Time Open-Source Developer, Tech Evangelist and Advisor...
 - 🔭 I am currently building [TimeLY](https://github.com/noahweasley/TimeLY), [Node User Settings](https://www.npmjs.com/package/node-user-settings) and [S.M.D Desktop](https://noahweasley.github.io/SMD-Desktop/)
 - 👀 I’m interested in Desktop, Android, Web Technologies and just about anything dealing with Front End ...
 - 🌱 I’m currently learning The Android SDK, Flutter, Electron JS, Angular and Empathy...
@@ -10,6 +10,7 @@
 - 📝 My Blog Posts: [Medium](https://medium.com/@iebenmelu) ...
 
 ## Skills and Tools
+
 <p align="left">
 <a href="https://code.visualstudio.com/"><img width="40px" alt = "VS Code" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a> 
 <a href="https://git-scm.com/"><img alt="git" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/></a> 
@@ -28,10 +29,10 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-                    
+
 
 ## Socials
- 
+
  <p align="left"> <a href="https://www.github.com/noahweasley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ebenmelu-ifechukwu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@iebenmelu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13737843/noah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ## Badges
@@ -46,6 +47,6 @@
 
 <a href="https://github.com/noahweasley" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahweasley&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+## Support Me
+
 <a href="https://www.buymeacoffee.com/noahweasley"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-	
