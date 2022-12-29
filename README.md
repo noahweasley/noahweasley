@@ -9,8 +9,12 @@
 - 📫 How to reach-out to me quickly: [E-Mail](mailto:iebenmelu@gmail.com?subject=Reaching%20out), [LinkedIn](https://www.linkedin.com/in/ebenmelu-ifechukwu) ...
 - 📝 My Blog Posts: [Medium](https://medium.com/@iebenmelu) ...
 
-### Skills 
+### Skills and Tools
 <p align="left">
+<a href="https://code.visualstudio.com/"><img width="40px" alt = "VS Code" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a> 
+<a href="https://git-scm.com/"><img alt="git" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/></a> 
+<a href="https://developer.android.com/"><img width="35px" alt = "Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png"/></a>
+<a href="https://code.visualstudio.com/"><img width="40px" alt = "Github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/></a> 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
