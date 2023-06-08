@@ -1,5 +1,9 @@
 # 👋 Hi, I'm @NoahWeasley
 
+<p align="left">
+ <a href="https://kotlinlang.org/](https://tenor.com/view/qoobee-hi-hello-wave-gif-25562895" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/Og0XNCa_vo8AAAAj/qoobee-hi.gif" width="200" height="200" alt="Cute animal waving" />
+</p>
+
 - 😋 I'm a Part-Time Open-Source Developer, Tech Evangelist and Advisor..
 - 🔭 I am currently building [TimeLY](https://github.com/noahweasley/TimeLY) and [S.M.D Desktop](https://github.com/noahweasley/SMD-Desktop), actively maintaining [Node User Settings](https://www.npmjs.com/package/node-user-settings) and also started building [Ventry](https://github.com/noahweasley/Ventry-Flutter).
 - 👀 I’m interested in Desktop, Android, Web Technologies ...
