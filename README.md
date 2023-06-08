@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @NoahWeasley
 
 <p align="left">
- <a href="https://kotlinlang.org/](https://tenor.com/view/qoobee-hi-hello-wave-gif-25562895" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/Og0XNCa_vo8AAAAj/qoobee-hi.gif" width="200" height="200" alt="Cute animal waving" />
+ <a href="https://tenor.com/view/qoobee-hi-hello-wave-gif-25562895" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/Og0XNCa_vo8AAAAj/qoobee-hi.gif" width="200" height="200" alt="Cute animal waving" />
 </p>
 
 - 😋 I'm a Part-Time Open-Source Developer, Tech Evangelist and Advisor..
