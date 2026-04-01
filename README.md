@@ -13,6 +13,22 @@
 - 📫 How to reach-out to me quickly: [E-Mail](mailto:iebenmelu@gmail.com?subject=Reaching%20out), [LinkedIn](https://www.linkedin.com/in/ebenmelu-ifechukwu) ...
 - 📝 My Blog Posts: [Medium](https://medium.com/@iebenmelu) ...
 
+
+## Projects
+
+- [**SMD-Desktop**](https://github.com/noahweasley/SMD-Desktop) – Cross-platform desktop app with Spotify API integration for discovering and managing music (Electron + Node.js)
+
+- [**Idle-Logout**](https://github.com/noahweasley/Idle-Logout) – Flutter package for automatic user logout after inactivity (security-focused apps)
+
+- [**Node-User-Settings**](https://github.com/noahweasley/Node-User-Settings) – Simple and universal Node.js library for managing user settings with minimal configuration
+
+- [**Clean-Sweep**](https://github.com/noahweasley/Clean-Sweep) – Node.js utility to delete empty files and directories efficiently
+
+- [**Multivariate-Linear-Regression**](https://github.com/noahweasley/Multivariate-Linear-Regression) – Dart implementation of multivariate linear regression with multiple outputs and SVD
+
+- [**TimeLY**](https://github.com/noahweasley/TimeLY) – Android app for managing university student activities
+
+
 ## Skills and Tools
 
 <p align="left">
@@ -37,21 +53,6 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="40" height="40"/> </a> <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://sequelize.org/img/logo.svg" alt="Sequelize" width="40" height="40"/> </a>  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="30"/> </a>
 
 </p>
-
-## Projects
-
-- [**SMD-Desktop**](https://github.com/noahweasley/SMD-Desktop) – Cross-platform desktop app with Spotify API integration for discovering and managing music (Electron + Node.js)
-
-- [**Idle-Logout**](https://github.com/noahweasley/Idle-Logout) – Flutter package for automatic user logout after inactivity (security-focused apps)
-
-- [**Node-User-Settings**](https://github.com/noahweasley/Node-User-Settings) – Simple and universal Node.js library for managing user settings with minimal configuration
-
-- [**Clean-Sweep**](https://github.com/noahweasley/Clean-Sweep) – Node.js utility to delete empty files and directories efficiently
-
-- [**Multivariate-Linear-Regression**](https://github.com/noahweasley/Multivariate-Linear-Regression) – Dart implementation of multivariate linear regression with multiple outputs and SVD
-
-- [**TimeLY**](https://github.com/noahweasley/TimeLY) – Android app for managing university student activities
-
 
 ## Socials
 
