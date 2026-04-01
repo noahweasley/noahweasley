@@ -38,17 +38,6 @@
 
 </p>
 
-## Socials
-
-<p align="left"> 
-<a href="https://www.github.com/noahweasley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/ebenmelu-ifechukwu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
- <a href="http://www.medium.com/@iebenmelu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-<a href="https://twitter.com/noah_weasley_1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noah_weasley_1" height="32" width="32" /></a>
-<a href="https://www.stackoverflow.com/users/13737843/noah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-</p>
-
-
 ## Projects
 
 - [**SMD-Desktop**](https://github.com/noahweasley/SMD-Desktop) – Cross-platform desktop app with Spotify API integration for discovering and managing music (Electron + Node.js)
@@ -62,3 +51,16 @@
 - [**Multivariate-Linear-Regression**](https://github.com/noahweasley/Multivariate-Linear-Regression) – Dart implementation of multivariate linear regression with multiple outputs and SVD
 
 - [**TimeLY**](https://github.com/noahweasley/TimeLY) – Android app for managing university student activities
+
+
+## Socials
+
+<p align="left"> 
+<a href="https://www.github.com/noahweasley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/ebenmelu-ifechukwu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ <a href="http://www.medium.com/@iebenmelu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+<a href="https://twitter.com/noah_weasley_1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noah_weasley_1" height="32" width="32" /></a>
+<a href="https://www.stackoverflow.com/users/13737843/noah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+</p>
+
+
