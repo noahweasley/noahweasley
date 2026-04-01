@@ -24,7 +24,7 @@
 
 - [**Clean-Sweep**](https://github.com/noahweasley/Clean-Sweep) – Node.js utility to delete empty files and directories efficiently
 
-- [**Multivariate-Linear-Regression**](https://github.com/noahweasley/Multivariate-Linear-Regression) – Dart implementation of multivariate linear regression with multiple outputs and SVD
+- [**Multivariate-Linear-Regression**](https://github.com/noahweasley/Multivariate-Linear-Regression) – Dart implementation of multivariate linear regression with multiple outputs implemented using Golub-Reinsch Singular Value Decomposition 
 
 - [**TimeLY**](https://github.com/noahweasley/TimeLY) – Android app for managing university student activities
 
