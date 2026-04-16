@@ -28,7 +28,7 @@
 
 - [**TimeLY**](https://github.com/noahweasley/TimeLY) – Android app for managing university student activities
 
-
+<!--
 ## Skills and Tools
 
 <p align="left">
@@ -64,4 +64,4 @@
 <a href="https://www.stackoverflow.com/users/13737843/noah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
-
+-->
