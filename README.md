@@ -31,7 +31,7 @@
 - What do you think I will build next? 🤔
 
 <p align="left">
- <a href="https://media1.tenor.com/m/2lOXnQYNZDgAAAAC/qoobee.gif" target="_blank" rel="noreferrer"><img src="https://media1.tenor.com/m/2lOXnQYNZDgAAAAC/qoobee.gif" width="200" height="200" alt="Cute animal waving" />
+ <a href="https://media.tenor.com/meDTXXdESAoAAAAj/dancing-dance.gif" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/meDTXXdESAoAAAAj/dancing-dance.gif" width="200" height="200" alt="Dancing dog" />
 </p>
 
 ## Skills and Tools
